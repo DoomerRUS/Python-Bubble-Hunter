@@ -13,4 +13,9 @@
 
 Демонстрация работы игры:
 
+
+https://github.com/DoomerRUS/Python-Bubble-Hunter/assets/92874412/9363395e-e1af-47c4-8a21-55fca08c88dc
+
+
+
 Всем удачи!!!
