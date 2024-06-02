@@ -1,5 +1,3 @@
-Описание на русском языке
-
 Эта игра была темой моего индивидуального проекта в колледже. Сейчас, спустя пару дней после защиты проекта, я решил выложить её в открытый доступ, чтобы любой мог в неё поиграть.
 
 Правила игры просты:
@@ -13,19 +11,6 @@
 1. pip3 install pygame
 2. pip3 install pygame_menu
 
+Демонстрация работы игры:
+
 Всем удачи!!!
-
-This game was the topic of my individual college project. Now, a couple of days after the protection of the project, I decided to put it in the public domain so that anyone can play it.
-
-The rules of the game are simple:
-The player must control a submarine and pierce bubbles that will appear in random places on the screen.
-The control is carried out by the arrows on the keyboard. The player gets points for poking bubbles.
-The player's initial playing time is 30 seconds.
-Every 1000 points add more time. The game ends when time runs out.
-
-The game was written in the Python programming language using the Pygame, Pygame_menu and Random libraries (more precisely, the randint function was used from it).
-To run the game, you need to install the libraries. This is done with the following commands:
-1. pip3 install pygame
-2. pip3 install pygame_menu
-
-Good luck to everyone!!!
